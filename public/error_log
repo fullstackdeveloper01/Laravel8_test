@@ -1,0 +1,2 @@
+[05-Apr-2022 06:46:59 UTC] PHP Fatal error:  Trait 'App\Models\HasApiTokens' not found in /home/brahim/public_html/app/Models/Course.php on line 8
+[05-Apr-2022 06:47:31 UTC] PHP Fatal error:  Trait 'App\Models\Notifiable' not found in /home/brahim/public_html/app/Models/Course.php on line 9
